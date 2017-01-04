@@ -67,7 +67,7 @@
 }
 
 #titleBar{
-  background-image: url("http://i.imgur.com/d5dwfPb.png");
+  background-image: url("https://cdn.rawgit.com/CRPUSD/CWS/master/header_Image.png");
   background-repeat: no-repeat;
   height: 81px;
   width: 400px;
@@ -5322,7 +5322,7 @@ fieldset.accessConfigForm label,
   line-height: 16px;
   padding: 10px 20px 10px 360px;
   margin-bottom: 90px;
-  background: url("http://i.imgur.com/3mKbP9r.png") no-repeat top
+  background: url("https://cdn.rawgit.com/CRPUSD/CWS/master/block_bk_02.png") no-repeat top
 }
 
 #alert #alertbody h1 {
@@ -5347,7 +5347,7 @@ fieldset.accessConfigForm label,
   line-height: 16px;
   padding: 10px 20px 10px 360px;
   margin-bottom: 90px;
-  background: url("http://i.imgur.com/TxjgeDQ.png") no-repeat top
+  background: url("https://cdn.rawgit.com/CRPUSD/CWS/master/block_bk_02.png") no-repeat top
 }
 
 #alert #alertpolicybody h1 {
